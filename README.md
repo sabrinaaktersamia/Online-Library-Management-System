@@ -1,2 +1,19 @@
-# Online-Library-Management-System
-The Online Library Management System (OLMS) is a web-based application developed to automate the management of library resources. The system allows administrators to manage books, students, and book issuing records efficiently. It provides a user-friendly interface for both administrators and students to access library services online.
+# Online Library Management System
+
+This project is developed using PHP and MySQL.
+
+## Features
+- Admin Login
+- Student Registration
+- Book Management
+- Issue and Return System
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Author
+Samia Akter
